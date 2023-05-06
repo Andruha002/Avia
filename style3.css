@@ -238,7 +238,7 @@ border-left: 2px solid #b1956a;
     align-items: center;
     justify-content: center;
     /* background-color: #f7d9aa; */
-background-image: url("./unsplash.png");
+background-image: url(https://github.com/Andruha002/Avia/blob/main/unsplash.png);
 background-size: 100% 100%;
 filter: blur(2px);
     z-index: 1000;
