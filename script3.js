@@ -23,10 +23,10 @@ var fly = new Audio();
 var red_break = new Audio();
 var blue_break = new Audio();
 var samolet_fall = new Audio();
-fly.src = "Audio/polet.mp3";
-red_break.src = "Audio/red_break.mp3";
-blue_break.src = "Audio/blue_break.mp3";
-samolet_fall.src = "Audio/samolet.mp3";
+fly.src = "https://github.com/Andruha002/Avia/blob/main/polet.mp3";
+red_break.src = "https://github.com/Andruha002/Avia/blob/main/red_break.mp3";
+blue_break.src = "https://github.com/Andruha002/Avia/blob/main/blue_break.mp3";
+samolet_fall.src = "https://github.com/Andruha002/Avia/blob/main/samolet.mp3";
 function resetGame() {
   game = {
     speed: 0,
