@@ -24,6 +24,7 @@ var red_break = new Audio();
 var blue_break = new Audio();
 var samolet_fall = new Audio();
 fly.src = "https://github.com/Andruha002/Avia/blob/main/polet.mp3";
+flz.loop = true;
 red_break.src = "https://github.com/Andruha002/Avia/blob/main/red_break.mp3";
 blue_break.src = "https://github.com/Andruha002/Avia/blob/main/blue_break.mp3";
 samolet_fall.src = "https://github.com/Andruha002/Avia/blob/main/samolet.mp3";
