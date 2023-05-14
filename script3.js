@@ -10,6 +10,12 @@ let Colors = {
   skin: 0xffdab9,
 };
 
+fly.src = "https://raw.githubusercontent.com/sergsem72/avia5/main/red_break2.mp3";
+flz.loop = true;
+red_break.src = "https://raw.githubusercontent.com/sergsem72/avia5/main/red_break2.mp3";
+blue_break.src = "https://raw.githubusercontent.com/sergsem72/avia5/main/blue_break.mp3";
+samolet_fall.src = "https://raw.githubusercontent.com/sergsem72/avia5/main/samolet.mp3";
+
 // GAME VARIABLES
 var game;
 var deltaTime = 0;
